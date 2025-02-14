@@ -3,7 +3,7 @@
 
 
 
-# I like Python and IPYNB which is also Python :P
+# I like Python :P
 
 
 [![](https://raw.githubusercontent.com/Nawsh1337/Nawsh1337/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
